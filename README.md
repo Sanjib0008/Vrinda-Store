@@ -11,7 +11,7 @@ Find Out the top 10 States contributed to sales & sew wise purches ratio
 
 Which Chanel contributing tp maximum sales 
 
-Hghest Selling category
+Find out the Hghest Selling category
 
 **Steps Involved:**
 
