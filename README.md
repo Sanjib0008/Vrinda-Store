@@ -21,6 +21,12 @@ Dashboard Creation: Designed a user-friendly, interactive dashboard to visualize
 
 **Project Learnings:**
 
+Advanced DAX formulas
+
+Learnt using slicer according to selected value
+
+use of clear all slicer button
+
 Enhanced drill-down capabilities using parameters and slicers.
 
 Established robust data connections and performed complex calculations for deeper insights.
