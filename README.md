@@ -6,8 +6,12 @@ To develop an interactive platform for exploring trends and analyzing Vrinda Sto
 **🎯 Task List:**
 
 Compare the sales & orders Usng Single chart & which months get highest sales
+
 Find Out the top 10 States contributed to sales & sew wise purches ratio
+
 Which Chanel contributing tp maximum sales 
+
+Hghest Selling category
 
 **Steps Involved:**
 
