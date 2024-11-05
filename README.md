@@ -1,8 +1,8 @@
-# Vrinda-Store  📊 🚀 Vrinda Store 2022 Sales & Order Analysis 🚀
+# 📊 🚀 Vrinda Store 2022 Sales & Order Analysis 🚀
 ![Vrinda Store Data Analysis_2022_001](https://github.com/user-attachments/assets/5edbebf0-0dbd-4996-a7b1-85440c0618e3)
 
 **🎯 Objective:**
-To develop an interactive platform for exploring trends and analyzing Vrinda Store's 2022 sales data. Vrinda can understand their customer & strategic growth for 2023
+To develop an interactive platform for exploring trends and analyzing Vrinda Store's 2022 sales data. Vrinda can understand their customer & strategic growth for 2023 with advanced excel
 
 **🎯 Task List:**
 
